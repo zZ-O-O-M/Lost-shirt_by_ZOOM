@@ -3,7 +3,8 @@
   const closeBtn = document.querySelector('.sidebar__close');
   const sidebar = document.querySelector('.sidebar');
 
-  sidebarBurger.addEventListener("click", function () {
+  sidebarBurger.addEventListener("click", function (e) {
+    e.preventDefault();
     sidebar.classList.add('sidebar--opened');
   });
 
