@@ -52,7 +52,7 @@ ul > li {
 .hero {
   /*vh - viewport height*/
   height: 100vh;
-  background: url("/img/bg/hero.jpg") center center / cover no-repeat;
+  background: url("./img/bg/hero.jpg") center center / cover no-repeat;
   /*position и size должны разделяться через / */
   /*background-image: url("/img/bg/hero.jpg");*/
   /*background-position: center, center;*/
@@ -244,15 +244,15 @@ ul > li {
 }
 
 .fade-slider__item--style-t-shirts {
-  background-image: url("/img/content/hero/slider_pic_1.png");
+  background-image: url("./img/content/hero/slider_pic_1.png");
 }
 
 .fade-slider__item--style-games {
-  background-image: url("/img/content/hero/slider_pic_2.png");
+  background-image: url("./img/content/hero/slider_pic_2.png");
 }
 
 .fade-slider__item--style-presents {
-  background-image: url("/img/content/hero/slider_pic_3.png");
+  background-image: url("./img/content/hero/slider_pic_3.png");
 }
 
 .fade-slider__text {
