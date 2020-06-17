@@ -52,7 +52,7 @@ ul > li {
 .hero {
   /*vh - viewport height*/
   height: 100vh;
-  background: url("https://zz-o-o-m.github.io/Lost-shirt_by_ZOOM/img/bg/hero.jpg") center center / cover no-repeat;
+  background: url("Lost-shirt_by_ZOOM/img/bg/hero.jpg") center center / cover no-repeat;
   /*position и size должны разделяться через / */
   /*background-image: url("/img/bg/hero.jpg");*/
   /*background-position: center, center;*/
@@ -244,15 +244,15 @@ ul > li {
 }
 
 .fade-slider__item--style-t-shirts {
-  background-image: url("https://zz-o-o-m.github.io/Lost-shirt_by_ZOOM/img/content/hero/slider_pic_1.png");
+  background-image: url("Lost-shirt_by_ZOOM/img/content/hero/slider_pic_1.png");
 }
 
 .fade-slider__item--style-games {
-  background-image: url("https://zz-o-o-m.github.io/Lost-shirt_by_ZOOM/img/content/hero/slider_pic_2.png");
+  background-image: url("Lost-shirt_by_ZOOM/img/content/hero/slider_pic_2.png");
 }
 
 .fade-slider__item--style-presents {
-  background-image: url("https://zz-o-o-m.github.io/Lost-shirt_by_ZOOM/img/content/hero/slider_pic_3.png");
+  background-image: url("Lost-shirt_by_ZOOM/img/content/hero/slider_pic_3.png");
 }
 
 .fade-slider__text {
@@ -501,7 +501,7 @@ ul > li {
   overflow: hidden;
   margin-right: 30px;
 
-  background: url("/img/bg/pattern.png") center center / 100%;
+  background: url("Lost-shirt_by_ZOOM/img/bg/pattern.png") center center / 100%;
 
   position: relative;
 }
@@ -523,11 +523,11 @@ ul > li {
 }
 
 .collections__item--type-guys:before {
-  background-image: url("/img/collections/collection_man.png");
+  background-image: url("Lost-shirt_by_ZOOM/img/collections/collection_man.png");
 }
 
 .collections__item--type-girls:before {
-  background-image: url("/img/collections/collection_woman.png");
+  background-image: url("Lost-shirt_by_ZOOM/img/collections/collection_woman.png");
   top: -31%;
   width: 80%;
   left: -25%;
@@ -674,7 +674,7 @@ footer {
 
 .extras__col-socials {
   height: 100%;
-  background: url("/img/bg/pattern.png") center center / 100%;
+  background: url("Lost-shirt_by_ZOOM/img/bg/pattern.png") center center / 100%;
   display: flex;
   align-items: center;
   justify-content: center;
